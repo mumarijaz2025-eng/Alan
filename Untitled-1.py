@@ -17,6 +17,3 @@ car2 = car("bmw", "white", 2000)
 car1.start_engine()
 car2.drive()
 
-print(car1.brand)
-print(car2.color)
-print(car1.power)
